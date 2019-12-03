@@ -10,4 +10,5 @@
 # CHANGE: Mo changed the tutorial 
 # HAD PROBLEM WITH GRAVITY AND JUMPING.
 # NOTE TO SELF: CHECK EVERY LINE, MAKE SURE THAT BRACKETS AND EVERY LINE IS THE SAME.
+# NEXT OBJECTIVE: Work on Game Design Plan with Mo, then set up repository between us before we start working on the project.
 1. Changed entire project tutorial to the "dude" tutorial and fixed issue with arcade inside var config {}. There were too many brackets.
